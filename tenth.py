@@ -59,14 +59,6 @@ list3 = [
 ]
 
 list4 = [['Решак В.Ч.', '0.12', '20/10/03', 'resak42[at]yahoo.com', 'resak42[at]yahoo.com'], ['Загянц Л.Н.', '0.82', '04/06/00', 'zaganz2[at]mail.ru', 'zaganz2[at]mail.ru'], ['Решак В.Ч.', '0.12', '20/10/03', 'resak42[at]yahoo.com', 'resak42[at]yahoo.com'], ['Федулян П.Л.', '0.70', '24/12/02', 'fedulan60[at]gmail.com', 'fedulan60[at]gmail.com']]
-#print(*list, sep='\n')
-#print("++++++++++++++++++++")
 print(*main(list2), sep = '\n')
-print("++++++")
 print(*main(list3), sep = '\n')
-#print(*list4, sep='\n')
-print("++++++")
-#main(list4)
 print(*main(list4),sep = '\n')
-#print(*list4, sep='\n')
-#print(*list, sep='\n')
